@@ -20,6 +20,8 @@ if(isset($email)&&isset($password)){
     {
        header('Location: login.php');  
     }
+
+    //this is it
        
 }
 ?>
